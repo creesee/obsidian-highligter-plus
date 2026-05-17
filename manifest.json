@@ -3,7 +3,7 @@
 	"name": "Highlighter Plus",
 	"version": "1.0.0",
 	"minAppVersion": "1.12.7",
-	"description": "Create custom, multi-colored highlighters and underlines with distinct light/dark profiles, transparency control, and contextual hotkey toggling",
+	"description": "Create custom, multi-colored highlighters and underlines with distinct light/dark profiles, transparency control, and contextual hotkey toggling.",
 	"author": "creesee",
 	"fundingUrl": "https://buycoffee.to/creesee", 
 	"isDesktopOnly": false
